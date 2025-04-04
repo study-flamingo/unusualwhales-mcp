@@ -1,3 +1,7 @@
+uw-api-doc.yaml
+llms-full.txt
+scratch
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
